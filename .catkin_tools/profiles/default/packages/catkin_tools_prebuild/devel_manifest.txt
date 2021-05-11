@@ -1,0 +1,13 @@
+/home/karan/catkin_ws/src/turtlesim_projects/build/catkin_tools_prebuild
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/setup.sh /home/karan/catkin_ws/src/turtlesim_projects/devel/./setup.sh
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/setup.bash /home/karan/catkin_ws/src/turtlesim_projects/devel/./setup.bash
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/local_setup.bash /home/karan/catkin_ws/src/turtlesim_projects/devel/./local_setup.bash
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/local_setup.zsh /home/karan/catkin_ws/src/turtlesim_projects/devel/./local_setup.zsh
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/setup.zsh /home/karan/catkin_ws/src/turtlesim_projects/devel/./setup.zsh
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/env.sh /home/karan/catkin_ws/src/turtlesim_projects/devel/./env.sh
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/local_setup.sh /home/karan/catkin_ws/src/turtlesim_projects/devel/./local_setup.sh
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/_setup_util.py /home/karan/catkin_ws/src/turtlesim_projects/devel/./_setup_util.py
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/cmake.lock /home/karan/catkin_ws/src/turtlesim_projects/devel/./cmake.lock
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake /home/karan/catkin_ws/src/turtlesim_projects/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake /home/karan/catkin_ws/src/turtlesim_projects/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+/home/karan/catkin_ws/src/turtlesim_projects/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc /home/karan/catkin_ws/src/turtlesim_projects/devel/lib/pkgconfig/catkin_tools_prebuild.pc

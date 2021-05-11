@@ -1,0 +1,6 @@
+devel_space: /home/karan/catkin_ws/src/turtlesim_projects/devel
+install: false
+install_space: /home/karan/catkin_ws/src/turtlesim_projects/install
+profile: default
+source_space: /home/karan/catkin_ws/src/turtlesim_projects/src
+workspace: /home/karan/catkin_ws/src/turtlesim_projects

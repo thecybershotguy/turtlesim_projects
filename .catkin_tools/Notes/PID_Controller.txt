@@ -1,0 +1,35 @@
+This will be flow control on how to use a Propotional Controller
+
+Topics needed:
+    Publbish linear and angular velocity to go to X , Y co-ordinates
+    Get the current X , Y and Thetha (orientation)
+
+
+
+void PerformProController(X,Y,Thetha,Goal#X, GoalY):
+
+    # X , Y are Co-ordinates
+    # Thetha is the orientation in 2D plane
+
+    linearVeloConstant = 1.5;
+    angularVeloConstant = 6;
+
+    while distanceToCover > = theTolerance OR 0 :
+
+        X_difference = GoalX - X;
+        Y_difference = GoalY - Y;
+
+        distanceToCover =  Pythagroas( (X_difference ) , (Y_difference) );
+
+        linearVelocity = distanceToCover * linearVeloConstant;
+
+        steeringAngle = atan2(Y_difference, X_difference )
+
+        angularVelocity = angularVeloConstant * (steeringAngle - Thetha)
+
+        # publish the linearVelocity and angularVelocity
+
+
+
+
+
